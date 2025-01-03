@@ -1,0 +1,45 @@
+Preliminary_Disease_Diagnosis,Recommended_Medicine,Adult
+Common Cold,Paracetamol and Zyrtec,"Paracetamol 650 mg 1 - 0 - 1, Zyrtec 0 -0-1 for 3 days"
+Influenza,Sinarest and Otrivin,"Sinarest  1-0-1, Otrivin spray 1 per nostril morning and night for 3 days"
+Migraine,Paracetamol,Paracetamol 650 mg 1 - 1 - 1
+Strep Throat,"Paracetamol,  Tulsi Cough Syrup","Paracetamol 650 mg 1 - 1 - 1, Tulsi Cough Syrup 5ml - 5ml - 5ml for 3 days"
+Food Poisoning,"ORS, Bifilac, Avomin","ORS 2 packets per day, Bifilac 1-0-1, Avomin 1-0-1 for 2 days"
+Measles,Visit a Doctor immediately,Visit a Doctor immediately
+Pneumonia,"Deriphyllin, Mucolite","Deriphyllin 1-1-1, Mucolite 1-0-1 for 3 days"
+Arthritis,"Zerodol-MR, Brugel","Zerodol-MR 1-0-1, Brugel cream apply twice a day - for 2 days"
+Appendicitis,Visit a Doctor immediately,Visit a Doctor immediately
+Tonsillitis,Visit a Doctor immediately,Visit a Doctor immediately
+Vertigo,Visit a Doctor immediately,Visit a Doctor immediately
+Sciatica,Ibuprofen,1-0-1 for 2 days
+Dermatitis,"Moisturiser, Mupirocin ointment",Moisturiser and Mupirocin - apply twice a day for 3 days.
+Asthma,Deriphyllin,Deriphyllin 1-1-1 for 3 days
+Gastroenteritis,"ORS, Bifilac, Avomin","ORS 2 packets per day, Bifilac 1-0-1, Avomin 1-0-1 for 2 days"
+Muscular Dystrophy,"Neurobion.
+Visit a Doctor if there is no improvement",Neuronion 1-0-1 for 5 days
+Diabetes,"Check blood sugar.
+Visit a doctor if blood test confirms that you are pre-diabetic or diabetic","Check blood sugar.
+Visit a doctor if blood test confirms that you are pre-diabetic or diabetic"
+COPD,Deriphyllin,Deriphylln 1-1-1 for 3 days
+Anxiety Disorder,Visit a Psychiatrist immediately,Visit a Psychiatrist immediately
+Fibromyalgia,"Neurobion.
+Visit a Doctor if there is no improvement",Neurobion 1-0-1 for 5 days
+Sinusitis,Sinarest and Otrivin,"Sinarest  1-0-1, Otrivin spray 1 per nostril morning and night for 3 days"
+Glaucoma,Visit a Opthamologist immediately,Visit a Opthamologist immediately
+Hyperhidrosis,Antiperspirants,Use as needed
+Hepatitis,Visit a Doctor immediately,Visit a Doctor immediately
+Anemia,Iron supplements,Ferronomic Plus 1-0-0 for 2 months
+Insomnia,Melatonin,Melatonin 3mg 0-0-1 for 1 week
+Hypothyroidism,Visit a Doctor immediately,Visit a Doctor immediately
+Leukemia,Visit a Doctor immediately,Visit a Doctor immediately
+Alzheimer's Disease,Visit a Doctor immediately,Visit a Doctor immediately
+Multiple Sclerosis,Visit a Doctor immediately,Visit a Doctor immediately
+Gastritis,"Digene tablet
+Dipep Tablet",Digene 1-1-1 and Dipep 1-1-1 for 1 week
+Heartburn,Pan 20mg,Pan 20mg 1-0-1 for 1 month before food
+Eczema,Visit a dermatologist immediately,Visit a dermatologist immediately
+Stroke,Visit a hospital immediately,Visit a hospital immediately
+Osteoarthritis,Visit a orthopedic immediately,Visit a orthopedic immediately
+Malaria,"Test blood for MP (Malarial Parasite).
+If positive, visit a doctor immediately","Test blood for MP (Malarial Parasite).
+If positive, visit a doctor immediately"
+Periods,Drotin - M,Drotin M 1-0-1 for 3 days

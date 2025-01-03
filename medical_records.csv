@@ -1,0 +1,48 @@
+Patient_Name,Age,Symptoms,Preliminary_Disease_Diagnosis,Recommended_Medicine,Recommended_Advice
+John Doe,34,"Fever, Cough, Fatigue",Common Cold,Paracetamol and Zyrtec,"Rest, Drink fluids"
+Jane Smith,27,"Fever, Headache, Fatigue",Sinusitis,Sinarest and Otrivin,"Rest, Steam Inhalation, drink hot soups"
+Emily Davis,15,Headache,Possible Migraine,Paracetamol,"Rest, good sleep time"
+Michael Brown,60,"Fever, Sore Throat, Fatigue",Throat Infection,"Paracetamol,  Tulsi Cough Syrup","Rest, Salt Water Gargle"
+Sophia Wilson,10,"Fever, Nausea, Fatigue",Stomach Infection,"ORS, Bifilac, Avomin","Rest, Oral rehydration"
+Liam Johnson,65,"Rash, Cough, Runny Nose,Fever",Measles,Visit a Doctor immediately,Visit a Doctor immediately
+Emma Thompson,42,"Chest Pain, Shortness of Breath",Chest Congestion,"Deriphyllin, Mucolite","Rest, Broncodilator, Mucolytic"
+Noah Garcia,29,"Muscle Pain, Swelling",Muscle pulling,"Zerodol-MR, Brugel","Rest, Ice packs"
+Olivia Martinez,31,"Lower Right Abdominal Pain, Nausea",Appendicitis,Visit a Doctor immediately,Visit a Doctor immediately
+William Clark,45,"Swollen Tonsils, Fever",Tonsillitis,Visit a Doctor immediately,Visit a Doctor immediately
+Isabella Lee,19,"Dizziness, Fainting","Low Blood Pressure
+Low Blood Sugar",Visit a Doctor immediately,Visit a Doctor immediately
+James Rodriguez,38,Nerve Pain,Sciatica,Ibuprofen,"Rest, Back excersises, Physical Therapy, Heating pad"
+Ava Lopez,26,"Skin Rash, Itching",General Skin Infection,"Moisturiser, Mupirocin ointment","Rest, Regular Moisturization of Skin"
+Alexander Hill,53,"Persistent Cough, Wheezing",COPD,Deriphyllin,"Rest, Breathing exercises"
+Mia Gonzalez,8,"Vomiting, Diarrhea, Bloating",Stomack Infection,"ORS, Bifilac, Avomin","Rest, Oral rehydration"
+Benjamin Moore,47,Muscle Weakness,Muscular Dystrophy,"Neurobion.
+Visit a Doctor if there is no improvement","Neurobion.
+Visit a Doctor if there is no improvement"
+Charlotte Perez,30,"Frequent Urination, Thirst",Diabetes,"Check blood sugar.
+Visit a doctor if blood test confirms that you are pre-diabetic or diabetic","Check blood sugar.
+Visit a doctor if blood test confirms that you are pre-diabetic or diabetic"
+Daniel Taylor,24,"Chest Tightness, Coughing, Difficulty Breathing, Wheezing",COPD,Deriphyllin,"Rest, Breathing exercises.
+Visit a doctor if no improvement"
+Amelia Adams,36,"Mood Swings, Anxiety",Anxiety Disorder,Visit a Psychiatrist immediately,Visit a Psychiatrist immediately
+Matthew Nelson,22,"Fatigue, Muscle Pain",Fibromyalgia,"Neurobion.
+Visit a Doctor if there is no improvement","Neurobion.
+Visit a Doctor if there is no improvement"
+Jacob Thomas,41,"Nasal Discharge, Sneezing",Sinusitis,Sinarest and Otrivin,"Rest, Steam Inhalation, drink hot soups"
+Sofia Walker,18,"Blurry Vision, Eye Pain",Glaucoma,Visit a Opthamologist immediately,Visit a Opthamologist immediately
+Lucas Hall,56,Excessive Sweating,Hyperhidrosis,Antiperspirants,"Rest, Avoid triggers"
+Avery White,32,"Loss of Appetite, Yellow Eyes, Yellow Urine",Hepatitis,Visit a Doctor immediately,Visit a Doctor immediately
+Grace King,14,"Feeling Cold, Pale Skin",Anemia,Iron supplements,"Rest, Iron-rich diet"
+Carter Scott,37,"Sleep Problems, Irritability",Insomnia,Melatonin,"Rest, Stress management"
+Aria Mitchell,23,"Dry Skin, Hair Loss, Weight gain",Hypothyroidism,Visit a Doctor immediately,Visit a Doctor immediately
+Jackson Rivera,35,"Abnormal Bleeding, Weight loss",Leukemia,Visit a Doctor immediately,Visit a Doctor immediately
+Luna Carter,11,"Memory Loss, Confusion",Alzheimer's Disease,Visit a Doctor immediately,Visit a Doctor immediately
+Ethan Reed,48,"Numbness, Tingling Sensation",Multiple Sclerosis,Visit a Doctor immediately,Visit a Doctor immediately
+Harper Ward,20,Digestive Problems,Gastritis,"Digene tablet
+Dipep Tablet","Rest, Dietary changes"
+Evelyn Morris,17,"Chest Pressure, Heartburn",Heartburn,Pan 20mg,"Rest, Avoid lying down aftereating, Eat smaller and more frequent meals"
+Andrew Cook,33,"Skin Sensitivity, Redness",Eczema,Visit a dermatologist immediately,Visit a dermatologist immediately
+Abigail Bailey,21,"Sudden balance problems, sudden dizziness, incoherant speech, drooping of mouth",Stroke,Visit a hospital immediately,Visit a hospital immediately
+Ryan Phillips,43,"Joint Stiffness, Limited Mobility",Osteoarthritis,Visit a orthopedic immediately,"Rest, Physiotheraphy"
+Madison Bell,28,"High Fever, Chills",Malaria,"Test blood for MP (Malarial Parasite).
+If positive, visit a doctor immediately","Rest, Avoid spicy food, Stay hydrated"
+Donna Cardell,34,"Cramps, Thigh Pain",Periods,Drotin - M,"Rest, Use heat therapy, Light yoga"
