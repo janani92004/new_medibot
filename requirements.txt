@@ -1,8 +1,7 @@
 streamlit
 pandas
-selenium
-geopy
-folium
-streamlit-folium
 requests
 google-generativeai
+streamlit-geolocation
+google-api-python-client
+streamlit-option-menu
