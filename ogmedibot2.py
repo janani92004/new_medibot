@@ -56,7 +56,7 @@ with col1:  # Put main content in left column
     # User choice
     user_choice = option_menu(
     menu_title="Main Menu",  # Title of the menu
-    options=["💊First Aid", "🩹 Diagnosis and Medicine Recommendation", "🏥 Search Hospitals", "💉 Search Medical Shops"],  # Updated Menu options
+    options=["💊 First Aid", "🩹 Diagnosis and Medicine Recommendation", "🏥 Search Hospitals", "💉 Search Medical Shops"],  # Updated Menu options
     icons=["🩹", "💊", "🏥", "💉"],  # Emojis for the menu items
     menu_icon="🏥",  # Icon for the entire menu (you can also use an emoji here)
     default_index=0,  # Default selected option
@@ -459,7 +459,7 @@ with col1:  # Put main content in left column
         st.session_state.show_medical_shops = False
         st.session_state.previous_task = user_choice
 
-    if user_choice == "💊First Aid":
+    if user_choice == "💊 First Aid":
     # Clear any hospital or medical shop results
         st.session_state.show_hospitals = False
         st.session_state.show_medical_shops = False
@@ -591,7 +591,7 @@ with col1:  # Put main content in left column
         else:
             st.error("No hospitals found nearby.")
 
-    elif user_choice == "💉Search Medical Shops":
+    elif user_choice == "💉 Search Medical Shops":
         st.session_state.show_hospitals = False
         st.session_state.show_medical_shops = True
         shops = search_and_format_medical_shops()
