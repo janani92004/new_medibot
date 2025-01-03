@@ -10,10 +10,10 @@ from googleapiclient.discovery import build
 from streamlit_option_menu import option_menu
 
 # Access the Google API key from the secrets
-yt_api_key ="AIzaSyDSriDZJusfnBwmJrf2eCfEeJVZ5dY4NeY"
-api_key ='AIzaSyDDjCutEZobboVnlAqOjSLXQANWihZFBhI'
-API_KEY_2 = 'AIzaSyC8JIhroOULD70lAQbEvIHVMRCZR1_MbNE'
-API_KEY_3 = 'AIzaSyCP5EhzQSROox7GpdExELWXhhqmIOUH3pU'
+yt_api_key =st.secrets["api_keys"]['yt_api_key']
+api_key =st.secrets["api_keys"]['apI_key']
+API_KEY_2 = st.secrets["api_keys"]['API_KEY_2']
+API_KEY_3 = st.secrets["api_keys"]['API_KEY_3']
 
 # Configure the API with the key
 genai.configure(api_key=api_key)
