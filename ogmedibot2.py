@@ -146,7 +146,7 @@ with col1:  # Put main content in left column
             for index, row in dataset2.iterrows():
                 if row['Preliminary_Disease_Diagnosis'].lower() == disease.lower():
                     if age <= 12:
-                        st.info('⚠️Please visit a doctor or your local pediatriian for children')
+                        st.info('⚠️Please visit a doctor or your local pediatrician for children')
                     elif age > 12 and age <= 65:
                         recommended_dosage = row['Adult']
                     else:
